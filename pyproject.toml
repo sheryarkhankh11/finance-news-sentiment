@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fnsd"
+version = "0.1.0"
+description = "Finance-News Sentiment Desk: deep-learning sentiment scoring of financial headlines"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "scikit-learn>=1.3",
+  "matplotlib>=3.7",
+  "PyYAML>=6.0",
+  "requests>=2.31",
+]
+
+[project.optional-dependencies]
+dl = ["torch>=2.0"]
+hf = ["datasets>=2.18", "transformers>=4.40"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+fnsd = "fnsd.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

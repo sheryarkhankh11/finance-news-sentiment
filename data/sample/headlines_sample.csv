@@ -1,0 +1,901 @@
+date,ticker,headline,label
+2025-01-02,ACME,Update: Acme Corp announces share buyback and higher dividend,2
+2025-01-02,ACME,Breaking: Acme Corp schedules quarterly results announcement in early trading,1
+2025-01-02,ACME,"Breaking: Acme Corp announces layoffs as revenue falls 33%, sources say",0
+2025-01-02,BRTN,"Brighton Energy swings to quarterly loss as sales drop 33%, sources say",0
+2025-01-02,BRTN,"Brighton Energy cuts annual outlook amid weak demand, company statement shows",0
+2025-01-02,BRTN,Brighton Energy announces date of annual shareholder meeting,1
+2025-01-02,BRTN,"Update: Brighton Energy appoints new chief financial officer, company statement shows",0
+2025-01-02,HLXB,"Update: Helix Biotech appoints new chief financial officer, sources say",1
+2025-01-02,HLXB,"Helix Biotech appoints new chief financial officer, company statement shows",1
+2025-01-02,HLXB,"Helix Biotech comments on market rumours, no change to outlook, company statement shows",1
+2025-01-02,NVLX,"Novalux appoints new chief financial officer, sources say",1
+2025-01-02,ORBT,Breaking: Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-01-02,ORBT,"Orbit Retail announces layoffs as revenue falls 31%, sources say",0
+2025-01-02,ORBT,Exclusive: Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-01-02,ORBT,Breaking: Orbit Retail announces share buyback and higher dividend in early trading,2
+2025-01-02,QNTM,Breaking: Quantum Freight opens new regional office,1
+2025-01-02,QNTM,Update: Quantum Freight swings to quarterly loss as sales drop 3% in early trading,0
+2025-01-02,QNTM,Breaking: Quantum Freight raises full-year guidance after strong demand,2
+2025-01-03,ACME,Acme Corp announces layoffs as revenue falls 9%,0
+2025-01-03,ACME,"Acme Corp reports revenue growth of 35% but slashes outlook on surging costs, company statement shows",0
+2025-01-03,BRTN,"Exclusive: Brighton Energy shares jump after record profit, company statement shows",2
+2025-01-03,BRTN,Brighton Energy completes routine debt refinancing,1
+2025-01-03,BRTN,"Update: Brighton Energy shares tumble after regulator opens probe, sources say",0
+2025-01-03,HLXB,Breaking: Helix Biotech opens new regional office,1
+2025-01-03,HLXB,"Breaking: Helix Biotech misses profit forecasts as costs surge 22%, company statement shows",0
+2025-01-03,NVLX,Exclusive: Novalux announces layoffs as revenue falls 31% in early trading,0
+2025-01-03,ORBT,"Orbit Retail swings to quarterly loss as sales drop 8%, company statement shows",0
+2025-01-03,ORBT,Exclusive: Orbit Retail misses profit forecasts as costs surge 35%,0
+2025-01-03,ORBT,Breaking: Orbit Retail appoints new chief financial officer in early trading,0
+2025-01-03,ORBT,Update: Orbit Retail shares jump after record profit,1
+2025-01-03,QNTM,"Quantum Freight cuts annual outlook amid weak demand, company statement shows",0
+2025-01-04,ACME,Acme Corp schedules quarterly results announcement,1
+2025-01-04,ACME,"Acme Corp cuts annual outlook amid weak demand, company statement shows",0
+2025-01-04,ACME,"Acme Corp announces layoffs as revenue falls 31%, company statement shows",0
+2025-01-04,ACME,"Analysts upgrade Acme Corp to buy on improving margins, sources say",2
+2025-01-04,ACME,Acme Corp beats quarterly earnings estimates as revenue climbs 5%,2
+2025-01-04,BRTN,Breaking: Brighton Energy opens new regional office in early trading,1
+2025-01-04,HLXB,"Breaking: Helix Biotech appoints new chief financial officer, company statement shows",1
+2025-01-04,HLXB,Update: Helix Biotech beats quarterly earnings estimates as revenue climbs 27% in early trading,2
+2025-01-04,HLXB,"Helix Biotech beats quarterly earnings estimates as revenue climbs 30%, sources say",2
+2025-01-04,HLXB,Helix Biotech completes routine debt refinancing,1
+2025-01-04,NVLX,Novalux files quarterly report with regulator in early trading,1
+2025-01-04,NVLX,Novalux swings to quarterly loss as sales drop 26%,0
+2025-01-04,NVLX,"Update: Novalux swings to quarterly loss as sales drop 40%, company statement shows",0
+2025-01-04,NVLX,"Exclusive: Novalux comments on market rumours, no change to outlook",1
+2025-01-04,ORBT,Orbit Retail appoints new chief financial officer,1
+2025-01-04,ORBT,"Exclusive: Orbit Retail comments on market rumours, no change to outlook",1
+2025-01-04,ORBT,Orbit Retail completes routine debt refinancing,1
+2025-01-05,ACME,Update: Acme Corp shares tumble after regulator opens probe,0
+2025-01-05,ACME,"Acme Corp wins major contract, boosting order backlog",2
+2025-01-05,ACME,"Acme Corp comments on market rumours, no change to outlook, sources say",1
+2025-01-05,ACME,Exclusive: Acme Corp announces date of annual shareholder meeting in early trading,1
+2025-01-05,BRTN,Breaking: Brighton Energy cuts annual outlook amid weak demand,0
+2025-01-05,HLXB,Helix Biotech shares tumble after regulator opens probe,0
+2025-01-05,HLXB,"Breaking: Helix Biotech announces share buyback and higher dividend, company statement shows",2
+2025-01-05,HLXB,"Helix Biotech beats quarterly earnings estimates as revenue climbs 8%, company statement shows",2
+2025-01-05,NVLX,Novalux posts surprise profit as sales rise 40%,2
+2025-01-05,NVLX,Novalux recalls products and warns of lower earnings,0
+2025-01-05,ORBT,"Orbit Retail reports revenue growth of 20% and lifts outlook, with only minor cost pressure",2
+2025-01-05,ORBT,Exclusive: Orbit Retail cuts annual outlook amid weak demand in early trading,0
+2025-01-05,QNTM,"Quantum Freight raises full-year guidance after strong demand, company statement shows",2
+2025-01-05,QNTM,Quantum Freight announces share buyback and higher dividend in early trading,2
+2025-01-05,QNTM,"Quantum Freight reports revenue growth of 12% and lifts outlook, with only minor cost pressure, company statement shows",2
+2025-01-05,QNTM,"Quantum Freight completes routine debt refinancing, sources say",1
+2025-01-06,ACME,"Acme Corp cuts annual outlook amid weak demand, sources say",0
+2025-01-06,BRTN,"Exclusive: Brighton Energy shares tumble after regulator opens probe, company statement shows",0
+2025-01-06,BRTN,"Breaking: Brighton Energy reports revenue growth of 22% and lifts outlook, with only minor cost pressure",2
+2025-01-06,BRTN,Brighton Energy appoints new chief financial officer in early trading,1
+2025-01-06,HLXB,"Helix Biotech shares tumble after regulator opens probe, sources say",0
+2025-01-06,HLXB,"Helix Biotech reports revenue growth of 5% and lifts outlook, with only minor cost pressure in early trading",2
+2025-01-06,NVLX,"Exclusive: Novalux cuts annual outlook amid weak demand, company statement shows",0
+2025-01-06,ORBT,Update: Orbit Retail announces layoffs as revenue falls 25% in early trading,0
+2025-01-06,QNTM,Quantum Freight reports revenue growth of 5% but slashes outlook on surging costs,0
+2025-01-06,QNTM,"Breaking: Quantum Freight appoints new chief financial officer, sources say",1
+2025-01-06,QNTM,"Exclusive: Quantum Freight announces share buyback and higher dividend, sources say",2
+2025-01-07,BRTN,"Brighton Energy files quarterly report with regulator, company statement shows",1
+2025-01-07,BRTN,"Exclusive: Brighton Energy cuts annual outlook amid weak demand, company statement shows",2
+2025-01-07,HLXB,Update: Helix Biotech reports revenue growth of 12% but slashes outlook on surging costs,0
+2025-01-07,HLXB,Exclusive: Helix Biotech announces layoffs as revenue falls 19% in early trading,1
+2025-01-07,HLXB,"Helix Biotech announces share buyback and higher dividend, company statement shows",2
+2025-01-07,NVLX,"Novalux wins major contract, boosting order backlog in early trading",2
+2025-01-07,NVLX,Novalux beats quarterly earnings estimates as revenue climbs 26%,1
+2025-01-07,NVLX,Novalux opens new regional office,1
+2025-01-07,QNTM,"Quantum Freight files quarterly report with regulator, sources say",1
+2025-01-07,QNTM,Quantum Freight announces share buyback and higher dividend,2
+2025-01-07,QNTM,Update: Quantum Freight completes routine debt refinancing,1
+2025-01-07,QNTM,Quantum Freight completes routine debt refinancing,1
+2025-01-07,QNTM,"Update: Quantum Freight wins major contract, boosting order backlog in early trading",2
+2025-01-07,QNTM,Quantum Freight shares tumble after regulator opens probe,0
+2025-01-08,ACME,"Acme Corp appoints new chief financial officer, sources say",1
+2025-01-08,ACME,"Acme Corp beats quarterly earnings estimates as revenue climbs 11%, company statement shows",2
+2025-01-08,BRTN,Update: Brighton Energy opens new regional office in early trading,1
+2025-01-08,BRTN,"Brighton Energy misses profit forecasts as costs surge 22%, sources say",0
+2025-01-08,BRTN,"Brighton Energy reports revenue growth of 10% but slashes outlook on surging costs, company statement shows",0
+2025-01-08,BRTN,Breaking: Brighton Energy posts surprise profit as sales rise 19%,2
+2025-01-08,BRTN,Brighton Energy appoints new chief financial officer in early trading,1
+2025-01-08,HLXB,Breaking: Analysts upgrade Helix Biotech to buy on improving margins,2
+2025-01-08,NVLX,Novalux completes routine debt refinancing,1
+2025-01-08,NVLX,Novalux reports revenue growth of 34% but slashes outlook on surging costs,0
+2025-01-08,ORBT,Orbit Retail to present at investor conference next week,1
+2025-01-08,ORBT,"Update: Orbit Retail wins major contract, boosting order backlog in early trading",2
+2025-01-08,ORBT,Orbit Retail opens new regional office in early trading,1
+2025-01-08,ORBT,"Orbit Retail posts surprise profit as sales rise 31%, company statement shows",2
+2025-01-08,ORBT,"Exclusive: Orbit Retail comments on market rumours, no change to outlook, company statement shows",1
+2025-01-08,ORBT,"Update: Analysts upgrade Orbit Retail to buy on improving margins, company statement shows",2
+2025-01-08,ORBT,"Orbit Retail shares jump after record profit, sources say",2
+2025-01-08,QNTM,"Quantum Freight completes routine debt refinancing, sources say",1
+2025-01-08,QNTM,Update: Quantum Freight swings to quarterly loss as sales drop 22%,0
+2025-01-08,QNTM,Breaking: Quantum Freight appoints new chief financial officer,1
+2025-01-09,ACME,Acme Corp announces layoffs as revenue falls 37%,2
+2025-01-09,BRTN,"Brighton Energy appoints new chief financial officer, company statement shows",1
+2025-01-09,BRTN,Brighton Energy shares tumble after regulator opens probe,0
+2025-01-09,BRTN,Brighton Energy files quarterly report with regulator,1
+2025-01-09,BRTN,Exclusive: Brighton Energy swings to quarterly loss as sales drop 5%,0
+2025-01-09,BRTN,Brighton Energy files quarterly report with regulator,1
+2025-01-09,BRTN,"Brighton Energy to present at investor conference next week, sources say",1
+2025-01-09,HLXB,"Helix Biotech comments on market rumours, no change to outlook",1
+2025-01-09,HLXB,Helix Biotech misses profit forecasts as costs surge 17%,0
+2025-01-09,HLXB,"Update: Helix Biotech wins major contract, boosting order backlog, company statement shows",2
+2025-01-09,NVLX,Exclusive: Novalux announces layoffs as revenue falls 13%,0
+2025-01-09,NVLX,Novalux files quarterly report with regulator in early trading,1
+2025-01-09,NVLX,Novalux shares tumble after regulator opens probe,0
+2025-01-09,ORBT,Breaking: Orbit Retail files quarterly report with regulator,1
+2025-01-09,ORBT,"Orbit Retail comments on market rumours, no change to outlook",1
+2025-01-09,QNTM,Exclusive: Quantum Freight appoints new chief financial officer,1
+2025-01-10,ACME,Update: Acme Corp opens new regional office,1
+2025-01-10,BRTN,Breaking: Brighton Energy posts surprise profit as sales rise 5%,2
+2025-01-10,HLXB,Update: Helix Biotech swings to quarterly loss as sales drop 3%,0
+2025-01-10,HLXB,"Update: Helix Biotech shares jump after record profit, company statement shows",2
+2025-01-10,HLXB,Breaking: Helix Biotech swings to quarterly loss as sales drop 5%,0
+2025-01-10,NVLX,Exclusive: Novalux announces date of annual shareholder meeting,1
+2025-01-10,NVLX,Novalux completes routine debt refinancing in early trading,0
+2025-01-10,NVLX,Exclusive: Novalux shares tumble after regulator opens probe,0
+2025-01-10,NVLX,Update: Analysts upgrade Novalux to buy on improving margins,2
+2025-01-10,ORBT,"Breaking: Orbit Retail comments on market rumours, no change to outlook",1
+2025-01-10,ORBT,Update: Orbit Retail appoints new chief financial officer,1
+2025-01-10,ORBT,Update: Orbit Retail announces date of annual shareholder meeting,1
+2025-01-10,QNTM,"Exclusive: Quantum Freight wins major contract, boosting order backlog in early trading",2
+2025-01-10,QNTM,Quantum Freight raises full-year guidance after strong demand,2
+2025-01-10,QNTM,"Update: Quantum Freight opens new regional office, company statement shows",1
+2025-01-11,ACME,Acme Corp files quarterly report with regulator,1
+2025-01-11,BRTN,Brighton Energy beats quarterly earnings estimates as revenue climbs 20%,2
+2025-01-11,BRTN,Exclusive: Analysts downgrade Brighton Energy to sell over margin concerns,0
+2025-01-11,BRTN,Breaking: Brighton Energy completes routine debt refinancing,1
+2025-01-11,HLXB,Exclusive: Helix Biotech schedules quarterly results announcement in early trading,1
+2025-01-11,NVLX,Breaking: Novalux files quarterly report with regulator,1
+2025-01-11,NVLX,"Update: Novalux misses profit forecasts as costs surge 34%, company statement shows",0
+2025-01-11,NVLX,"Novalux beats quarterly earnings estimates as revenue climbs 5%, company statement shows",2
+2025-01-11,NVLX,Update: Novalux to present at investor conference next week,1
+2025-01-11,NVLX,Update: Novalux cuts annual outlook amid weak demand in early trading,0
+2025-01-11,ORBT,"Orbit Retail wins major contract, boosting order backlog, sources say",2
+2025-01-11,QNTM,"Exclusive: Quantum Freight wins major contract, boosting order backlog, company statement shows",2
+2025-01-11,QNTM,Breaking: Quantum Freight announces date of annual shareholder meeting,1
+2025-01-11,QNTM,Breaking: Quantum Freight reports revenue growth of 31% but slashes outlook on surging costs,0
+2025-01-11,QNTM,"Update: Quantum Freight raises full-year guidance after strong demand, sources say",2
+2025-01-11,QNTM,Quantum Freight appoints new chief financial officer,1
+2025-01-12,ACME,Acme Corp opens new regional office,1
+2025-01-12,BRTN,"Brighton Energy to present at investor conference next week, sources say",1
+2025-01-12,HLXB,Exclusive: Helix Biotech raises full-year guidance after strong demand in early trading,2
+2025-01-12,HLXB,Update: Helix Biotech appoints new chief financial officer,1
+2025-01-12,HLXB,Exclusive: Helix Biotech completes routine debt refinancing in early trading,1
+2025-01-12,NVLX,Update: Novalux opens new regional office,1
+2025-01-12,NVLX,"Breaking: Novalux cuts annual outlook amid weak demand, sources say",0
+2025-01-12,ORBT,Breaking: Orbit Retail shares tumble after regulator opens probe in early trading,0
+2025-01-12,ORBT,Orbit Retail to present at investor conference next week in early trading,1
+2025-01-13,BRTN,"Update: Brighton Energy comments on market rumours, no change to outlook",1
+2025-01-13,BRTN,"Breaking: Brighton Energy shares tumble after regulator opens probe, company statement shows",0
+2025-01-13,BRTN,"Brighton Energy wins major contract, boosting order backlog",2
+2025-01-13,BRTN,Breaking: Brighton Energy completes routine debt refinancing,1
+2025-01-13,HLXB,"Helix Biotech misses profit forecasts as costs surge 32%, sources say",0
+2025-01-13,HLXB,"Helix Biotech files quarterly report with regulator, company statement shows",1
+2025-01-13,HLXB,Helix Biotech misses profit forecasts as costs surge 5%,0
+2025-01-13,HLXB,Exclusive: Helix Biotech announces layoffs as revenue falls 40% in early trading,0
+2025-01-13,ORBT,Orbit Retail to present at investor conference next week,1
+2025-01-13,ORBT,Breaking: Orbit Retail announces share buyback and higher dividend,2
+2025-01-13,QNTM,"Analysts upgrade Quantum Freight to buy on improving margins, sources say",2
+2025-01-14,ACME,"Acme Corp appoints new chief financial officer, company statement shows",1
+2025-01-14,ACME,Breaking: Acme Corp raises full-year guidance after strong demand,2
+2025-01-14,BRTN,"Brighton Energy comments on market rumours, no change to outlook",1
+2025-01-14,BRTN,Breaking: Brighton Energy beats quarterly earnings estimates as revenue climbs 6% in early trading,2
+2025-01-14,BRTN,Breaking: Brighton Energy schedules quarterly results announcement in early trading,1
+2025-01-14,BRTN,"Exclusive: Brighton Energy comments on market rumours, no change to outlook",1
+2025-01-14,HLXB,Breaking: Helix Biotech posts surprise profit as sales rise 18%,2
+2025-01-14,HLXB,Helix Biotech raises full-year guidance after strong demand in early trading,2
+2025-01-14,HLXB,Helix Biotech cuts annual outlook amid weak demand,0
+2025-01-14,NVLX,Novalux opens new regional office,1
+2025-01-14,ORBT,"Breaking: Orbit Retail wins major contract, boosting order backlog, sources say",2
+2025-01-14,ORBT,"Orbit Retail schedules quarterly results announcement, sources say",0
+2025-01-14,QNTM,"Quantum Freight misses profit forecasts as costs surge 24%, company statement shows",0
+2025-01-14,QNTM,"Quantum Freight comments on market rumours, no change to outlook, company statement shows",1
+2025-01-15,ACME,"Acme Corp beats quarterly earnings estimates as revenue climbs 12%, sources say",2
+2025-01-15,ACME,"Exclusive: Acme Corp announces share buyback and higher dividend, company statement shows",2
+2025-01-15,ACME,"Acme Corp to present at investor conference next week, company statement shows",1
+2025-01-15,ACME,"Acme Corp posts surprise profit as sales rise 16%, company statement shows",2
+2025-01-15,ACME,"Breaking: Acme Corp shares tumble after regulator opens probe, sources say",0
+2025-01-15,BRTN,Analysts downgrade Brighton Energy to sell over margin concerns,0
+2025-01-15,HLXB,"Helix Biotech swings to quarterly loss as sales drop 19%, company statement shows",0
+2025-01-15,HLXB,Exclusive: Helix Biotech shares tumble after regulator opens probe,0
+2025-01-15,NVLX,Exclusive: Novalux misses profit forecasts as costs surge 29%,0
+2025-01-15,NVLX,"Novalux beats quarterly earnings estimates as revenue climbs 22%, sources say",2
+2025-01-15,NVLX,"Novalux appoints new chief financial officer, sources say",1
+2025-01-15,NVLX,Update: Novalux schedules quarterly results announcement,1
+2025-01-15,ORBT,"Exclusive: Orbit Retail comments on market rumours, no change to outlook, company statement shows",1
+2025-01-15,ORBT,"Orbit Retail recalls products and warns of lower earnings, company statement shows",0
+2025-01-15,QNTM,Quantum Freight misses profit forecasts as costs surge 28%,0
+2025-01-15,QNTM,"Update: Quantum Freight completes routine debt refinancing, sources say",0
+2025-01-15,QNTM,"Exclusive: Quantum Freight shares jump after record profit, company statement shows",2
+2025-01-16,ACME,"Acme Corp reports revenue growth of 6% and lifts outlook, with only minor cost pressure, sources say",2
+2025-01-16,BRTN,Update: Analysts upgrade Brighton Energy to buy on improving margins in early trading,2
+2025-01-16,BRTN,Breaking: Brighton Energy opens new regional office,1
+2025-01-16,BRTN,Breaking: Brighton Energy announces layoffs as revenue falls 22%,0
+2025-01-16,HLXB,Breaking: Helix Biotech schedules quarterly results announcement,1
+2025-01-16,HLXB,Helix Biotech swings to quarterly loss as sales drop 27%,0
+2025-01-16,HLXB,Helix Biotech reports revenue growth of 29% but slashes outlook on surging costs,0
+2025-01-16,HLXB,"Helix Biotech announces share buyback and higher dividend, company statement shows",0
+2025-01-16,HLXB,Update: Helix Biotech misses profit forecasts as costs surge 19% in early trading,0
+2025-01-16,NVLX,Breaking: Novalux announces share buyback and higher dividend,2
+2025-01-16,NVLX,"Novalux wins major contract, boosting order backlog in early trading",2
+2025-01-16,ORBT,"Update: Orbit Retail announces date of annual shareholder meeting, sources say",1
+2025-01-16,ORBT,Orbit Retail announces date of annual shareholder meeting,1
+2025-01-16,ORBT,Exclusive: Analysts downgrade Orbit Retail to sell over margin concerns,2
+2025-01-16,QNTM,"Quantum Freight announces date of annual shareholder meeting, sources say",1
+2025-01-16,QNTM,"Breaking: Quantum Freight reports revenue growth of 3% but slashes outlook on surging costs, sources say",0
+2025-01-16,QNTM,"Quantum Freight schedules quarterly results announcement, sources say",1
+2025-01-17,ACME,"Breaking: Acme Corp announces share buyback and higher dividend, sources say",2
+2025-01-17,BRTN,Brighton Energy opens new regional office,1
+2025-01-17,BRTN,"Exclusive: Brighton Energy to present at investor conference next week, company statement shows",1
+2025-01-17,BRTN,"Exclusive: Brighton Energy schedules quarterly results announcement, company statement shows",1
+2025-01-17,BRTN,Update: Brighton Energy files quarterly report with regulator,1
+2025-01-17,BRTN,"Breaking: Brighton Energy announces share buyback and higher dividend, company statement shows",2
+2025-01-17,BRTN,"Brighton Energy comments on market rumours, no change to outlook, company statement shows",1
+2025-01-17,HLXB,Analysts downgrade Helix Biotech to sell over margin concerns,0
+2025-01-17,HLXB,"Update: Helix Biotech recalls products and warns of lower earnings, sources say",0
+2025-01-17,NVLX,"Exclusive: Novalux files quarterly report with regulator, company statement shows",0
+2025-01-17,NVLX,Novalux to present at investor conference next week,1
+2025-01-17,NVLX,Novalux shares jump after record profit in early trading,0
+2025-01-17,ORBT,"Orbit Retail shares jump after record profit, company statement shows",2
+2025-01-17,ORBT,Exclusive: Orbit Retail files quarterly report with regulator in early trading,1
+2025-01-17,ORBT,"Exclusive: Orbit Retail cuts annual outlook amid weak demand, sources say",1
+2025-01-17,QNTM,"Breaking: Quantum Freight reports revenue growth of 39% and lifts outlook, with only minor cost pressure",2
+2025-01-17,QNTM,Analysts downgrade Quantum Freight to sell over margin concerns,0
+2025-01-17,QNTM,Analysts downgrade Quantum Freight to sell over margin concerns in early trading,0
+2025-01-18,ACME,Acme Corp files quarterly report with regulator,1
+2025-01-18,ACME,Acme Corp raises full-year guidance after strong demand,2
+2025-01-18,ACME,"Analysts upgrade Acme Corp to buy on improving margins, sources say",2
+2025-01-18,ACME,"Update: Acme Corp appoints new chief financial officer, sources say",1
+2025-01-18,ACME,Analysts upgrade Acme Corp to buy on improving margins,2
+2025-01-18,ACME,Acme Corp announces date of annual shareholder meeting,1
+2025-01-18,BRTN,"Brighton Energy announces date of annual shareholder meeting, company statement shows",1
+2025-01-18,BRTN,"Brighton Energy posts surprise profit as sales rise 11%, sources say",2
+2025-01-18,ORBT,Exclusive: Orbit Retail announces share buyback and higher dividend,2
+2025-01-18,ORBT,"Breaking: Orbit Retail opens new regional office, company statement shows",1
+2025-01-18,ORBT,Update: Orbit Retail reports revenue growth of 6% but slashes outlook on surging costs,0
+2025-01-18,ORBT,Breaking: Orbit Retail opens new regional office in early trading,1
+2025-01-18,ORBT,Breaking: Orbit Retail schedules quarterly results announcement,1
+2025-01-18,QNTM,Update: Quantum Freight shares jump after record profit,2
+2025-01-19,ACME,"Breaking: Acme Corp announces layoffs as revenue falls 34%, sources say",0
+2025-01-19,BRTN,"Exclusive: Brighton Energy wins major contract, boosting order backlog, sources say",2
+2025-01-19,BRTN,Brighton Energy to present at investor conference next week,1
+2025-01-19,NVLX,"Novalux wins major contract, boosting order backlog",0
+2025-01-19,NVLX,"Novalux announces date of annual shareholder meeting, company statement shows",1
+2025-01-19,NVLX,"Novalux recalls products and warns of lower earnings, company statement shows",0
+2025-01-19,ORBT,"Orbit Retail files quarterly report with regulator, company statement shows",1
+2025-01-19,ORBT,Orbit Retail announces date of annual shareholder meeting,1
+2025-01-19,QNTM,Quantum Freight appoints new chief financial officer,1
+2025-01-19,QNTM,Analysts downgrade Quantum Freight to sell over margin concerns,0
+2025-01-19,QNTM,Quantum Freight beats quarterly earnings estimates as revenue climbs 2%,2
+2025-01-20,ACME,"Acme Corp reports revenue growth of 26% and lifts outlook, with only minor cost pressure in early trading",2
+2025-01-20,ACME,Acme Corp files quarterly report with regulator in early trading,1
+2025-01-20,ACME,"Acme Corp shares jump after record profit, company statement shows",2
+2025-01-20,BRTN,"Brighton Energy wins major contract, boosting order backlog, sources say",0
+2025-01-20,HLXB,"Helix Biotech beats quarterly earnings estimates as revenue climbs 17%, company statement shows",2
+2025-01-20,HLXB,Exclusive: Helix Biotech shares jump after record profit in early trading,2
+2025-01-20,NVLX,"Novalux reports revenue growth of 38% and lifts outlook, with only minor cost pressure, sources say",2
+2025-01-20,NVLX,"Novalux comments on market rumours, no change to outlook",1
+2025-01-20,NVLX,"Novalux reports revenue growth of 3% and lifts outlook, with only minor cost pressure",2
+2025-01-20,ORBT,"Orbit Retail comments on market rumours, no change to outlook, sources say",1
+2025-01-20,QNTM,"Quantum Freight raises full-year guidance after strong demand, sources say",2
+2025-01-20,QNTM,"Quantum Freight appoints new chief financial officer, company statement shows",1
+2025-01-21,ACME,"Acme Corp to present at investor conference next week, sources say",1
+2025-01-21,ACME,"Update: Acme Corp reports revenue growth of 36% and lifts outlook, with only minor cost pressure",2
+2025-01-21,BRTN,Brighton Energy announces layoffs as revenue falls 7%,0
+2025-01-21,BRTN,Brighton Energy raises full-year guidance after strong demand,2
+2025-01-21,BRTN,Breaking: Brighton Energy recalls products and warns of lower earnings in early trading,0
+2025-01-21,BRTN,"Brighton Energy files quarterly report with regulator, sources say",1
+2025-01-21,HLXB,Helix Biotech announces layoffs as revenue falls 34%,0
+2025-01-21,HLXB,Helix Biotech reports revenue growth of 30% but slashes outlook on surging costs,0
+2025-01-21,HLXB,Analysts upgrade Helix Biotech to buy on improving margins,2
+2025-01-21,NVLX,"Novalux comments on market rumours, no change to outlook in early trading",1
+2025-01-21,NVLX,"Novalux appoints new chief financial officer, company statement shows",1
+2025-01-21,NVLX,"Update: Novalux shares jump after record profit, sources say",2
+2025-01-21,ORBT,Exclusive: Orbit Retail recalls products and warns of lower earnings,0
+2025-01-21,QNTM,"Quantum Freight raises full-year guidance after strong demand, sources say",2
+2025-01-21,QNTM,Quantum Freight cuts annual outlook amid weak demand in early trading,0
+2025-01-21,QNTM,"Quantum Freight schedules quarterly results announcement, sources say",1
+2025-01-22,ACME,Analysts upgrade Acme Corp to buy on improving margins,2
+2025-01-22,BRTN,Brighton Energy beats quarterly earnings estimates as revenue climbs 4%,2
+2025-01-22,BRTN,"Brighton Energy appoints new chief financial officer, company statement shows",1
+2025-01-22,BRTN,Brighton Energy swings to quarterly loss as sales drop 33% in early trading,0
+2025-01-22,HLXB,Helix Biotech appoints new chief financial officer,1
+2025-01-22,HLXB,"Update: Helix Biotech files quarterly report with regulator, sources say",0
+2025-01-22,HLXB,Helix Biotech announces date of annual shareholder meeting in early trading,1
+2025-01-22,NVLX,Novalux reports revenue growth of 6% but slashes outlook on surging costs,0
+2025-01-22,NVLX,Breaking: Novalux shares jump after record profit,2
+2025-01-22,ORBT,Orbit Retail schedules quarterly results announcement,1
+2025-01-22,ORBT,Breaking: Orbit Retail schedules quarterly results announcement,1
+2025-01-22,QNTM,Quantum Freight recalls products and warns of lower earnings,0
+2025-01-22,QNTM,"Breaking: Quantum Freight announces layoffs as revenue falls 30%, company statement shows",0
+2025-01-23,ACME,Acme Corp announces share buyback and higher dividend,2
+2025-01-23,ACME,"Acme Corp comments on market rumours, no change to outlook",1
+2025-01-23,ACME,Acme Corp swings to quarterly loss as sales drop 16%,0
+2025-01-23,BRTN,"Brighton Energy shares jump after record profit, company statement shows",2
+2025-01-23,BRTN,"Breaking: Brighton Energy announces layoffs as revenue falls 13%, company statement shows",0
+2025-01-23,HLXB,"Breaking: Helix Biotech comments on market rumours, no change to outlook",1
+2025-01-23,HLXB,Breaking: Helix Biotech announces share buyback and higher dividend,2
+2025-01-23,NVLX,Novalux raises full-year guidance after strong demand,2
+2025-01-23,NVLX,Breaking: Novalux swings to quarterly loss as sales drop 19%,0
+2025-01-23,NVLX,Novalux cuts annual outlook amid weak demand,0
+2025-01-23,ORBT,Exclusive: Orbit Retail beats quarterly earnings estimates as revenue climbs 8%,2
+2025-01-23,ORBT,Analysts downgrade Orbit Retail to sell over margin concerns,0
+2025-01-23,ORBT,Orbit Retail posts surprise profit as sales rise 11%,2
+2025-01-23,ORBT,"Update: Orbit Retail shares tumble after regulator opens probe, sources say",0
+2025-01-23,QNTM,Quantum Freight appoints new chief financial officer in early trading,1
+2025-01-23,QNTM,"Quantum Freight comments on market rumours, no change to outlook, sources say",1
+2025-01-23,QNTM,"Breaking: Quantum Freight beats quarterly earnings estimates as revenue climbs 34%, sources say",2
+2025-01-24,ACME,Acme Corp announces share buyback and higher dividend,2
+2025-01-24,ACME,"Acme Corp appoints new chief financial officer, company statement shows",2
+2025-01-24,BRTN,"Analysts downgrade Brighton Energy to sell over margin concerns, company statement shows",0
+2025-01-24,BRTN,"Brighton Energy opens new regional office, sources say",1
+2025-01-24,HLXB,Helix Biotech raises full-year guidance after strong demand,2
+2025-01-24,HLXB,"Update: Analysts downgrade Helix Biotech to sell over margin concerns, company statement shows",0
+2025-01-24,NVLX,Exclusive: Novalux completes routine debt refinancing,1
+2025-01-24,ORBT,"Update: Orbit Retail completes routine debt refinancing, sources say",1
+2025-01-24,ORBT,Orbit Retail files quarterly report with regulator in early trading,1
+2025-01-24,QNTM,Quantum Freight to present at investor conference next week,1
+2025-01-24,QNTM,"Quantum Freight opens new regional office, company statement shows",1
+2025-01-24,QNTM,"Exclusive: Quantum Freight comments on market rumours, no change to outlook",1
+2025-01-24,QNTM,Breaking: Quantum Freight announces share buyback and higher dividend,2
+2025-01-25,ACME,"Acme Corp comments on market rumours, no change to outlook",1
+2025-01-25,HLXB,Helix Biotech to present at investor conference next week,1
+2025-01-25,HLXB,"Helix Biotech reports revenue growth of 36% and lifts outlook, with only minor cost pressure",2
+2025-01-25,NVLX,Breaking: Analysts upgrade Novalux to buy on improving margins,2
+2025-01-25,NVLX,Breaking: Novalux announces date of annual shareholder meeting in early trading,1
+2025-01-25,NVLX,Novalux recalls products and warns of lower earnings in early trading,0
+2025-01-25,ORBT,Analysts downgrade Orbit Retail to sell over margin concerns,0
+2025-01-25,QNTM,"Breaking: Quantum Freight beats quarterly earnings estimates as revenue climbs 4%, company statement shows",2
+2025-01-25,QNTM,"Quantum Freight reports revenue growth of 13% and lifts outlook, with only minor cost pressure, sources say",2
+2025-01-25,QNTM,Quantum Freight reports revenue growth of 32% but slashes outlook on surging costs,0
+2025-01-25,QNTM,"Quantum Freight comments on market rumours, no change to outlook in early trading",1
+2025-01-26,ACME,Acme Corp misses profit forecasts as costs surge 17%,0
+2025-01-26,ACME,"Acme Corp announces share buyback and higher dividend, company statement shows",2
+2025-01-26,ACME,Acme Corp announces share buyback and higher dividend,2
+2025-01-26,BRTN,Update: Brighton Energy recalls products and warns of lower earnings,0
+2025-01-26,BRTN,"Exclusive: Brighton Energy beats quarterly earnings estimates as revenue climbs 32%, company statement shows",2
+2025-01-26,BRTN,Brighton Energy beats quarterly earnings estimates as revenue climbs 33%,2
+2025-01-26,BRTN,"Exclusive: Brighton Energy reports revenue growth of 2% and lifts outlook, with only minor cost pressure",2
+2025-01-26,BRTN,Breaking: Brighton Energy misses profit forecasts as costs surge 36%,0
+2025-01-26,HLXB,"Helix Biotech announces date of annual shareholder meeting, sources say",1
+2025-01-26,HLXB,"Helix Biotech completes routine debt refinancing, company statement shows",1
+2025-01-26,HLXB,Helix Biotech completes routine debt refinancing,1
+2025-01-26,NVLX,"Exclusive: Novalux beats quarterly earnings estimates as revenue climbs 11%, sources say",2
+2025-01-26,ORBT,Breaking: Orbit Retail to present at investor conference next week,1
+2025-01-26,ORBT,"Breaking: Orbit Retail announces date of annual shareholder meeting, company statement shows",1
+2025-01-26,ORBT,Orbit Retail announces date of annual shareholder meeting in early trading,1
+2025-01-26,ORBT,Orbit Retail schedules quarterly results announcement in early trading,1
+2025-01-26,QNTM,"Quantum Freight completes routine debt refinancing, sources say",1
+2025-01-26,QNTM,"Exclusive: Quantum Freight schedules quarterly results announcement, sources say",1
+2025-01-26,QNTM,Quantum Freight schedules quarterly results announcement,1
+2025-01-26,QNTM,Update: Quantum Freight recalls products and warns of lower earnings,0
+2025-01-26,QNTM,Exclusive: Quantum Freight opens new regional office in early trading,1
+2025-01-27,ACME,Breaking: Analysts upgrade Acme Corp to buy on improving margins,2
+2025-01-27,ACME,"Exclusive: Acme Corp completes routine debt refinancing, sources say",1
+2025-01-27,BRTN,Brighton Energy recalls products and warns of lower earnings,0
+2025-01-27,BRTN,Brighton Energy announces share buyback and higher dividend,2
+2025-01-27,BRTN,Exclusive: Brighton Energy announces layoffs as revenue falls 6%,0
+2025-01-27,BRTN,Brighton Energy files quarterly report with regulator,1
+2025-01-27,BRTN,Update: Brighton Energy schedules quarterly results announcement,1
+2025-01-27,BRTN,Brighton Energy announces share buyback and higher dividend,2
+2025-01-27,HLXB,Helix Biotech to present at investor conference next week,1
+2025-01-27,NVLX,"Exclusive: Novalux appoints new chief financial officer, company statement shows",1
+2025-01-27,ORBT,"Orbit Retail raises full-year guidance after strong demand, company statement shows",2
+2025-01-27,ORBT,Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-01-27,ORBT,Breaking: Orbit Retail raises full-year guidance after strong demand,2
+2025-01-27,ORBT,"Exclusive: Orbit Retail announces date of annual shareholder meeting, sources say",1
+2025-01-27,ORBT,Orbit Retail announces date of annual shareholder meeting,1
+2025-01-27,ORBT,"Orbit Retail wins major contract, boosting order backlog",2
+2025-01-27,QNTM,"Quantum Freight wins major contract, boosting order backlog, company statement shows",2
+2025-01-27,QNTM,"Quantum Freight reports revenue growth of 33% and lifts outlook, with only minor cost pressure",2
+2025-01-27,QNTM,Quantum Freight opens new regional office in early trading,1
+2025-01-28,ACME,Breaking: Acme Corp completes routine debt refinancing,1
+2025-01-28,ACME,"Update: Acme Corp reports revenue growth of 31% and lifts outlook, with only minor cost pressure",2
+2025-01-28,ACME,"Acme Corp comments on market rumours, no change to outlook, company statement shows",1
+2025-01-28,ACME,Update: Analysts upgrade Acme Corp to buy on improving margins,2
+2025-01-28,ACME,Analysts upgrade Acme Corp to buy on improving margins,2
+2025-01-28,ACME,Acme Corp cuts annual outlook amid weak demand in early trading,0
+2025-01-28,HLXB,Update: Helix Biotech misses profit forecasts as costs surge 37%,0
+2025-01-28,HLXB,"Helix Biotech to present at investor conference next week, company statement shows",0
+2025-01-28,HLXB,Exclusive: Helix Biotech shares tumble after regulator opens probe in early trading,0
+2025-01-28,NVLX,"Novalux files quarterly report with regulator, company statement shows",1
+2025-01-28,NVLX,"Novalux comments on market rumours, no change to outlook, company statement shows",1
+2025-01-28,ORBT,Exclusive: Orbit Retail files quarterly report with regulator in early trading,1
+2025-01-28,ORBT,"Breaking: Orbit Retail comments on market rumours, no change to outlook",1
+2025-01-28,QNTM,Quantum Freight announces layoffs as revenue falls 6%,0
+2025-01-29,ACME,"Acme Corp reports revenue growth of 12% but slashes outlook on surging costs, sources say",0
+2025-01-29,BRTN,"Brighton Energy reports revenue growth of 8% and lifts outlook, with only minor cost pressure",2
+2025-01-29,HLXB,Analysts downgrade Helix Biotech to sell over margin concerns,0
+2025-01-29,HLXB,Helix Biotech recalls products and warns of lower earnings in early trading,0
+2025-01-29,HLXB,Breaking: Helix Biotech posts surprise profit as sales rise 25%,2
+2025-01-29,HLXB,Breaking: Helix Biotech to present at investor conference next week,1
+2025-01-29,HLXB,"Breaking: Helix Biotech reports revenue growth of 22% and lifts outlook, with only minor cost pressure, sources say",2
+2025-01-29,NVLX,Novalux raises full-year guidance after strong demand in early trading,2
+2025-01-29,NVLX,"Breaking: Novalux comments on market rumours, no change to outlook",1
+2025-01-29,NVLX,Update: Novalux opens new regional office,1
+2025-01-29,ORBT,"Exclusive: Orbit Retail schedules quarterly results announcement, company statement shows",1
+2025-01-29,ORBT,Exclusive: Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-01-29,ORBT,Orbit Retail misses profit forecasts as costs surge 19%,0
+2025-01-29,ORBT,Exclusive: Orbit Retail opens new regional office,1
+2025-01-29,QNTM,"Quantum Freight comments on market rumours, no change to outlook in early trading",1
+2025-01-29,QNTM,Analysts upgrade Quantum Freight to buy on improving margins in early trading,2
+2025-01-30,ACME,Acme Corp announces layoffs as revenue falls 6%,0
+2025-01-30,ACME,Acme Corp beats quarterly earnings estimates as revenue climbs 12%,2
+2025-01-30,BRTN,"Breaking: Brighton Energy reports revenue growth of 8% but slashes outlook on surging costs, sources say",0
+2025-01-30,BRTN,"Breaking: Brighton Energy opens new regional office, company statement shows",1
+2025-01-30,HLXB,Helix Biotech cuts annual outlook amid weak demand in early trading,0
+2025-01-30,NVLX,Update: Novalux shares tumble after regulator opens probe,0
+2025-01-30,ORBT,"Update: Orbit Retail comments on market rumours, no change to outlook, company statement shows",1
+2025-01-30,ORBT,Orbit Retail files quarterly report with regulator,1
+2025-01-30,ORBT,Exclusive: Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-01-30,QNTM,"Update: Quantum Freight completes routine debt refinancing, company statement shows",1
+2025-01-30,QNTM,"Breaking: Quantum Freight reports revenue growth of 8% but slashes outlook on surging costs, sources say",0
+2025-01-30,QNTM,"Exclusive: Quantum Freight reports revenue growth of 33% and lifts outlook, with only minor cost pressure, sources say",2
+2025-01-30,QNTM,Update: Quantum Freight reports revenue growth of 30% but slashes outlook on surging costs,0
+2025-01-30,QNTM,Update: Quantum Freight completes routine debt refinancing,1
+2025-01-31,ACME,Acme Corp shares jump after record profit,2
+2025-01-31,ACME,Exclusive: Acme Corp misses profit forecasts as costs surge 35%,0
+2025-01-31,ACME,Exclusive: Acme Corp shares tumble after regulator opens probe,0
+2025-01-31,ACME,Update: Acme Corp opens new regional office,1
+2025-01-31,ACME,Analysts downgrade Acme Corp to sell over margin concerns,0
+2025-01-31,BRTN,Brighton Energy shares tumble after regulator opens probe,0
+2025-01-31,BRTN,"Brighton Energy reports revenue growth of 9% and lifts outlook, with only minor cost pressure",2
+2025-01-31,BRTN,Breaking: Brighton Energy files quarterly report with regulator,1
+2025-01-31,HLXB,"Helix Biotech to present at investor conference next week, company statement shows",1
+2025-01-31,HLXB,Exclusive: Helix Biotech raises full-year guidance after strong demand,2
+2025-01-31,NVLX,"Update: Analysts upgrade Novalux to buy on improving margins, sources say",2
+2025-01-31,ORBT,Orbit Retail announces date of annual shareholder meeting,1
+2025-01-31,QNTM,"Breaking: Quantum Freight wins major contract, boosting order backlog, sources say",2
+2025-02-01,BRTN,Exclusive: Brighton Energy shares tumble after regulator opens probe in early trading,1
+2025-02-01,HLXB,Exclusive: Helix Biotech opens new regional office,1
+2025-02-01,NVLX,"Novalux cuts annual outlook amid weak demand, sources say",0
+2025-02-01,NVLX,Novalux announces share buyback and higher dividend,2
+2025-02-01,NVLX,Breaking: Novalux to present at investor conference next week,1
+2025-02-01,NVLX,Novalux to present at investor conference next week,1
+2025-02-01,ORBT,"Update: Analysts downgrade Orbit Retail to sell over margin concerns, sources say",0
+2025-02-01,ORBT,Orbit Retail files quarterly report with regulator,1
+2025-02-01,ORBT,Orbit Retail completes routine debt refinancing,1
+2025-02-01,ORBT,"Update: Orbit Retail reports revenue growth of 4% but slashes outlook on surging costs, sources say",0
+2025-02-01,QNTM,Update: Quantum Freight recalls products and warns of lower earnings,0
+2025-02-02,ACME,Acme Corp posts surprise profit as sales rise 4%,2
+2025-02-02,ACME,Exclusive: Acme Corp misses profit forecasts as costs surge 3%,0
+2025-02-02,BRTN,Brighton Energy misses profit forecasts as costs surge 34%,0
+2025-02-02,BRTN,"Brighton Energy comments on market rumours, no change to outlook, sources say",1
+2025-02-02,HLXB,"Helix Biotech misses profit forecasts as costs surge 10%, company statement shows",0
+2025-02-02,HLXB,Exclusive: Helix Biotech recalls products and warns of lower earnings,0
+2025-02-02,HLXB,"Exclusive: Helix Biotech reports revenue growth of 23% and lifts outlook, with only minor cost pressure",2
+2025-02-02,HLXB,"Update: Helix Biotech wins major contract, boosting order backlog",2
+2025-02-02,NVLX,Update: Novalux completes routine debt refinancing,1
+2025-02-02,NVLX,Update: Novalux completes routine debt refinancing in early trading,1
+2025-02-02,ORBT,"Update: Orbit Retail announces date of annual shareholder meeting, sources say",1
+2025-02-02,ORBT,Exclusive: Orbit Retail reports revenue growth of 25% but slashes outlook on surging costs,0
+2025-02-02,ORBT,Update: Analysts upgrade Orbit Retail to buy on improving margins,0
+2025-02-02,QNTM,Breaking: Quantum Freight raises full-year guidance after strong demand in early trading,2
+2025-02-02,QNTM,Breaking: Quantum Freight files quarterly report with regulator,1
+2025-02-03,ACME,Acme Corp appoints new chief financial officer,1
+2025-02-03,ACME,"Update: Acme Corp reports revenue growth of 30% and lifts outlook, with only minor cost pressure",2
+2025-02-03,BRTN,"Exclusive: Brighton Energy swings to quarterly loss as sales drop 22%, sources say",0
+2025-02-03,HLXB,"Breaking: Helix Biotech completes routine debt refinancing, company statement shows",1
+2025-02-03,HLXB,Helix Biotech files quarterly report with regulator in early trading,1
+2025-02-03,HLXB,Helix Biotech swings to quarterly loss as sales drop 39%,0
+2025-02-03,HLXB,"Exclusive: Helix Biotech schedules quarterly results announcement, company statement shows",1
+2025-02-03,NVLX,Novalux swings to quarterly loss as sales drop 26% in early trading,0
+2025-02-03,NVLX,Breaking: Novalux announces date of annual shareholder meeting,1
+2025-02-03,ORBT,Orbit Retail reports revenue growth of 19% but slashes outlook on surging costs in early trading,0
+2025-02-03,ORBT,Orbit Retail files quarterly report with regulator,1
+2025-02-03,ORBT,Orbit Retail announces layoffs as revenue falls 21%,0
+2025-02-03,ORBT,Orbit Retail shares tumble after regulator opens probe,0
+2025-02-03,QNTM,"Quantum Freight reports revenue growth of 34% and lifts outlook, with only minor cost pressure in early trading",2
+2025-02-03,QNTM,Update: Quantum Freight beats quarterly earnings estimates as revenue climbs 14%,2
+2025-02-03,QNTM,"Exclusive: Quantum Freight announces share buyback and higher dividend, company statement shows",2
+2025-02-04,ACME,"Acme Corp comments on market rumours, no change to outlook",1
+2025-02-04,BRTN,"Brighton Energy misses profit forecasts as costs surge 31%, company statement shows",0
+2025-02-04,BRTN,"Breaking: Brighton Energy beats quarterly earnings estimates as revenue climbs 26%, company statement shows",2
+2025-02-04,HLXB,"Helix Biotech to present at investor conference next week, company statement shows",1
+2025-02-04,HLXB,"Breaking: Helix Biotech announces date of annual shareholder meeting, company statement shows",1
+2025-02-04,HLXB,"Exclusive: Helix Biotech comments on market rumours, no change to outlook",1
+2025-02-04,HLXB,"Update: Helix Biotech shares jump after record profit, company statement shows",1
+2025-02-04,NVLX,Breaking: Novalux appoints new chief financial officer,1
+2025-02-04,NVLX,Analysts downgrade Novalux to sell over margin concerns,0
+2025-02-04,NVLX,Exclusive: Novalux shares jump after record profit,2
+2025-02-04,NVLX,"Novalux opens new regional office, sources say",1
+2025-02-04,ORBT,"Update: Orbit Retail to present at investor conference next week, sources say",1
+2025-02-04,ORBT,"Orbit Retail reports revenue growth of 15% and lifts outlook, with only minor cost pressure",2
+2025-02-04,QNTM,"Exclusive: Quantum Freight shares jump after record profit, sources say",2
+2025-02-05,ACME,"Acme Corp completes routine debt refinancing, sources say",1
+2025-02-05,BRTN,Brighton Energy opens new regional office,1
+2025-02-05,HLXB,"Exclusive: Helix Biotech swings to quarterly loss as sales drop 3%, sources say",0
+2025-02-05,HLXB,"Breaking: Helix Biotech comments on market rumours, no change to outlook",1
+2025-02-05,HLXB,"Helix Biotech opens new regional office, company statement shows",1
+2025-02-05,HLXB,Helix Biotech schedules quarterly results announcement,0
+2025-02-05,HLXB,"Helix Biotech recalls products and warns of lower earnings, company statement shows",0
+2025-02-05,HLXB,"Helix Biotech comments on market rumours, no change to outlook, company statement shows",1
+2025-02-05,NVLX,"Novalux completes routine debt refinancing, company statement shows",1
+2025-02-05,ORBT,Orbit Retail opens new regional office,1
+2025-02-05,ORBT,"Orbit Retail schedules quarterly results announcement, company statement shows",1
+2025-02-05,ORBT,Orbit Retail reports revenue growth of 32% but slashes outlook on surging costs,0
+2025-02-05,ORBT,Update: Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-02-05,QNTM,"Quantum Freight reports revenue growth of 24% and lifts outlook, with only minor cost pressure",2
+2025-02-05,QNTM,Update: Quantum Freight appoints new chief financial officer,1
+2025-02-06,BRTN,Exclusive: Brighton Energy completes routine debt refinancing,1
+2025-02-06,HLXB,"Helix Biotech raises full-year guidance after strong demand, company statement shows",2
+2025-02-06,HLXB,"Exclusive: Helix Biotech comments on market rumours, no change to outlook, sources say",1
+2025-02-06,HLXB,"Update: Helix Biotech schedules quarterly results announcement, sources say",1
+2025-02-06,HLXB,"Update: Helix Biotech to present at investor conference next week, company statement shows",1
+2025-02-06,HLXB,"Helix Biotech recalls products and warns of lower earnings, sources say",0
+2025-02-06,NVLX,Exclusive: Novalux announces layoffs as revenue falls 30% in early trading,0
+2025-02-06,NVLX,"Breaking: Novalux reports revenue growth of 40% and lifts outlook, with only minor cost pressure",2
+2025-02-06,NVLX,"Novalux announces date of annual shareholder meeting, sources say",1
+2025-02-06,ORBT,Orbit Retail beats quarterly earnings estimates as revenue climbs 33% in early trading,2
+2025-02-06,ORBT,"Update: Orbit Retail wins major contract, boosting order backlog, company statement shows",2
+2025-02-06,QNTM,"Quantum Freight schedules quarterly results announcement, company statement shows",1
+2025-02-06,QNTM,"Quantum Freight recalls products and warns of lower earnings, sources say",0
+2025-02-06,QNTM,"Quantum Freight appoints new chief financial officer, sources say",1
+2025-02-06,QNTM,Quantum Freight to present at investor conference next week,1
+2025-02-07,ACME,"Acme Corp announces date of annual shareholder meeting, company statement shows",1
+2025-02-07,ACME,"Breaking: Analysts downgrade Acme Corp to sell over margin concerns, company statement shows",0
+2025-02-07,ACME,Acme Corp opens new regional office,1
+2025-02-07,ACME,"Exclusive: Acme Corp recalls products and warns of lower earnings, company statement shows",0
+2025-02-07,ACME,Exclusive: Acme Corp to present at investor conference next week,1
+2025-02-07,BRTN,Breaking: Analysts downgrade Brighton Energy to sell over margin concerns in early trading,0
+2025-02-07,BRTN,Brighton Energy opens new regional office,1
+2025-02-07,HLXB,Exclusive: Helix Biotech reports revenue growth of 33% but slashes outlook on surging costs in early trading,0
+2025-02-07,HLXB,Helix Biotech shares tumble after regulator opens probe in early trading,2
+2025-02-07,HLXB,Exclusive: Helix Biotech schedules quarterly results announcement,1
+2025-02-07,NVLX,Novalux raises full-year guidance after strong demand in early trading,1
+2025-02-07,NVLX,Update: Novalux beats quarterly earnings estimates as revenue climbs 22% in early trading,2
+2025-02-07,NVLX,Novalux completes routine debt refinancing,1
+2025-02-07,NVLX,"Novalux completes routine debt refinancing, sources say",1
+2025-02-07,NVLX,"Exclusive: Novalux completes routine debt refinancing, company statement shows",1
+2025-02-07,ORBT,Orbit Retail schedules quarterly results announcement,1
+2025-02-07,QNTM,Quantum Freight announces date of annual shareholder meeting,1
+2025-02-07,QNTM,"Quantum Freight wins major contract, boosting order backlog, sources say",2
+2025-02-07,QNTM,Update: Quantum Freight schedules quarterly results announcement,1
+2025-02-07,QNTM,Quantum Freight announces share buyback and higher dividend,2
+2025-02-07,QNTM,"Update: Quantum Freight wins major contract, boosting order backlog",0
+2025-02-08,ACME,Exclusive: Acme Corp appoints new chief financial officer,0
+2025-02-08,ACME,Acme Corp shares jump after record profit,1
+2025-02-08,BRTN,"Breaking: Brighton Energy announces date of annual shareholder meeting, sources say",1
+2025-02-08,BRTN,Brighton Energy misses profit forecasts as costs surge 31% in early trading,0
+2025-02-08,HLXB,"Helix Biotech to present at investor conference next week, sources say",1
+2025-02-08,HLXB,"Breaking: Helix Biotech wins major contract, boosting order backlog, company statement shows",2
+2025-02-08,NVLX,Novalux announces date of annual shareholder meeting in early trading,1
+2025-02-08,NVLX,"Novalux comments on market rumours, no change to outlook",1
+2025-02-08,NVLX,"Novalux reports revenue growth of 31% and lifts outlook, with only minor cost pressure, company statement shows",2
+2025-02-08,NVLX,Novalux completes routine debt refinancing,1
+2025-02-08,ORBT,Orbit Retail cuts annual outlook amid weak demand,0
+2025-02-08,QNTM,"Quantum Freight completes routine debt refinancing, sources say",1
+2025-02-08,QNTM,"Breaking: Analysts downgrade Quantum Freight to sell over margin concerns, sources say",2
+2025-02-09,ACME,Exclusive: Acme Corp cuts annual outlook amid weak demand,0
+2025-02-09,ACME,Acme Corp opens new regional office,1
+2025-02-09,ACME,Acme Corp posts surprise profit as sales rise 18%,2
+2025-02-09,ACME,"Acme Corp shares tumble after regulator opens probe, company statement shows",0
+2025-02-09,BRTN,Update: Brighton Energy swings to quarterly loss as sales drop 12%,0
+2025-02-09,BRTN,"Brighton Energy cuts annual outlook amid weak demand, company statement shows",0
+2025-02-09,BRTN,"Update: Brighton Energy schedules quarterly results announcement, company statement shows",0
+2025-02-09,BRTN,Brighton Energy swings to quarterly loss as sales drop 30%,0
+2025-02-09,HLXB,Exclusive: Helix Biotech reports revenue growth of 21% but slashes outlook on surging costs,0
+2025-02-09,NVLX,Novalux announces date of annual shareholder meeting,1
+2025-02-09,NVLX,Novalux cuts annual outlook amid weak demand in early trading,0
+2025-02-09,NVLX,"Exclusive: Novalux reports revenue growth of 25% and lifts outlook, with only minor cost pressure in early trading",2
+2025-02-09,ORBT,"Breaking: Orbit Retail reports revenue growth of 9% and lifts outlook, with only minor cost pressure",2
+2025-02-09,ORBT,Analysts downgrade Orbit Retail to sell over margin concerns in early trading,0
+2025-02-09,QNTM,Exclusive: Quantum Freight completes routine debt refinancing,1
+2025-02-09,QNTM,Update: Quantum Freight files quarterly report with regulator,1
+2025-02-09,QNTM,Update: Quantum Freight swings to quarterly loss as sales drop 35%,0
+2025-02-09,QNTM,"Exclusive: Quantum Freight cuts annual outlook amid weak demand, company statement shows",0
+2025-02-09,QNTM,Quantum Freight announces date of annual shareholder meeting,1
+2025-02-10,ACME,"Acme Corp announces layoffs as revenue falls 17%, sources say",0
+2025-02-10,ACME,Acme Corp appoints new chief financial officer,1
+2025-02-10,ACME,Update: Acme Corp shares tumble after regulator opens probe,0
+2025-02-10,ACME,Breaking: Acme Corp beats quarterly earnings estimates as revenue climbs 35%,2
+2025-02-10,BRTN,"Breaking: Brighton Energy completes routine debt refinancing, company statement shows",1
+2025-02-10,BRTN,Update: Brighton Energy cuts annual outlook amid weak demand,0
+2025-02-10,BRTN,Update: Analysts upgrade Brighton Energy to buy on improving margins,2
+2025-02-10,BRTN,"Breaking: Brighton Energy misses profit forecasts as costs surge 8%, company statement shows",0
+2025-02-10,HLXB,Exclusive: Helix Biotech swings to quarterly loss as sales drop 13%,0
+2025-02-10,HLXB,"Helix Biotech announces share buyback and higher dividend, company statement shows",2
+2025-02-10,HLXB,"Exclusive: Helix Biotech to present at investor conference next week, company statement shows",1
+2025-02-10,HLXB,Breaking: Helix Biotech announces share buyback and higher dividend,2
+2025-02-10,NVLX,Update: Novalux completes routine debt refinancing,1
+2025-02-10,NVLX,Novalux announces date of annual shareholder meeting,1
+2025-02-11,BRTN,Brighton Energy misses profit forecasts as costs surge 24%,0
+2025-02-11,BRTN,"Brighton Energy swings to quarterly loss as sales drop 17%, company statement shows",0
+2025-02-11,NVLX,"Exclusive: Novalux recalls products and warns of lower earnings, sources say",0
+2025-02-11,NVLX,"Novalux reports revenue growth of 13% and lifts outlook, with only minor cost pressure",2
+2025-02-11,ORBT,"Orbit Retail completes routine debt refinancing, sources say",1
+2025-02-11,ORBT,Exclusive: Orbit Retail shares jump after record profit,2
+2025-02-11,ORBT,"Breaking: Orbit Retail schedules quarterly results announcement, company statement shows",1
+2025-02-11,ORBT,"Exclusive: Orbit Retail schedules quarterly results announcement, sources say",1
+2025-02-11,QNTM,"Update: Quantum Freight shares tumble after regulator opens probe, sources say",0
+2025-02-11,QNTM,Breaking: Quantum Freight raises full-year guidance after strong demand in early trading,2
+2025-02-11,QNTM,Quantum Freight misses profit forecasts as costs surge 29%,0
+2025-02-11,QNTM,Quantum Freight opens new regional office,1
+2025-02-12,ACME,Exclusive: Acme Corp announces date of annual shareholder meeting,1
+2025-02-12,ACME,Acme Corp swings to quarterly loss as sales drop 38%,0
+2025-02-12,ACME,Update: Acme Corp to present at investor conference next week in early trading,1
+2025-02-12,ACME,"Update: Acme Corp to present at investor conference next week, sources say",1
+2025-02-12,ACME,Breaking: Acme Corp reports revenue growth of 14% but slashes outlook on surging costs in early trading,0
+2025-02-12,BRTN,"Exclusive: Brighton Energy completes routine debt refinancing, company statement shows",1
+2025-02-12,BRTN,Analysts downgrade Brighton Energy to sell over margin concerns,1
+2025-02-12,HLXB,Helix Biotech recalls products and warns of lower earnings,2
+2025-02-12,HLXB,Update: Helix Biotech completes routine debt refinancing in early trading,1
+2025-02-12,NVLX,"Exclusive: Novalux announces share buyback and higher dividend, sources say",2
+2025-02-12,NVLX,Novalux reports revenue growth of 30% but slashes outlook on surging costs in early trading,0
+2025-02-12,NVLX,Update: Novalux opens new regional office,1
+2025-02-12,NVLX,Novalux recalls products and warns of lower earnings in early trading,0
+2025-02-12,NVLX,"Breaking: Analysts upgrade Novalux to buy on improving margins, company statement shows",2
+2025-02-12,NVLX,Breaking: Analysts upgrade Novalux to buy on improving margins,2
+2025-02-12,QNTM,"Quantum Freight misses profit forecasts as costs surge 23%, company statement shows",0
+2025-02-12,QNTM,Update: Quantum Freight posts surprise profit as sales rise 6%,2
+2025-02-13,ACME,Update: Acme Corp appoints new chief financial officer,1
+2025-02-13,ACME,"Acme Corp reports revenue growth of 27% and lifts outlook, with only minor cost pressure, sources say",2
+2025-02-13,ACME,Exclusive: Analysts upgrade Acme Corp to buy on improving margins,2
+2025-02-13,BRTN,"Breaking: Brighton Energy raises full-year guidance after strong demand, sources say",2
+2025-02-13,BRTN,Exclusive: Brighton Energy misses profit forecasts as costs surge 21% in early trading,0
+2025-02-13,BRTN,Breaking: Brighton Energy swings to quarterly loss as sales drop 11%,0
+2025-02-13,NVLX,"Update: Novalux swings to quarterly loss as sales drop 14%, company statement shows",0
+2025-02-13,NVLX,Novalux announces layoffs as revenue falls 39%,0
+2025-02-13,NVLX,"Novalux cuts annual outlook amid weak demand, sources say",0
+2025-02-13,NVLX,"Analysts downgrade Novalux to sell over margin concerns, company statement shows",0
+2025-02-13,ORBT,Breaking: Analysts downgrade Orbit Retail to sell over margin concerns,0
+2025-02-13,ORBT,"Exclusive: Analysts upgrade Orbit Retail to buy on improving margins, sources say",2
+2025-02-13,ORBT,"Orbit Retail reports revenue growth of 6% but slashes outlook on surging costs, sources say",0
+2025-02-13,ORBT,Orbit Retail cuts annual outlook amid weak demand in early trading,0
+2025-02-13,QNTM,Quantum Freight completes routine debt refinancing,1
+2025-02-14,ACME,Update: Acme Corp files quarterly report with regulator,1
+2025-02-14,BRTN,"Update: Brighton Energy comments on market rumours, no change to outlook",1
+2025-02-14,BRTN,"Breaking: Brighton Energy swings to quarterly loss as sales drop 30%, sources say",0
+2025-02-14,BRTN,Brighton Energy schedules quarterly results announcement in early trading,1
+2025-02-14,BRTN,Brighton Energy announces share buyback and higher dividend,2
+2025-02-14,BRTN,Brighton Energy completes routine debt refinancing,1
+2025-02-14,HLXB,Helix Biotech announces date of annual shareholder meeting,1
+2025-02-14,HLXB,Helix Biotech announces layoffs as revenue falls 3% in early trading,0
+2025-02-14,NVLX,"Update: Novalux completes routine debt refinancing, company statement shows",1
+2025-02-14,ORBT,Exclusive: Orbit Retail completes routine debt refinancing,1
+2025-02-14,ORBT,Exclusive: Orbit Retail recalls products and warns of lower earnings,0
+2025-02-14,QNTM,"Update: Quantum Freight recalls products and warns of lower earnings, company statement shows",0
+2025-02-15,ACME,"Acme Corp appoints new chief financial officer, sources say",1
+2025-02-15,BRTN,Exclusive: Analysts downgrade Brighton Energy to sell over margin concerns,0
+2025-02-15,BRTN,Breaking: Brighton Energy completes routine debt refinancing in early trading,1
+2025-02-15,BRTN,"Brighton Energy recalls products and warns of lower earnings, sources say",0
+2025-02-15,BRTN,Analysts downgrade Brighton Energy to sell over margin concerns in early trading,0
+2025-02-15,HLXB,Exclusive: Helix Biotech to present at investor conference next week,1
+2025-02-15,HLXB,Helix Biotech raises full-year guidance after strong demand,2
+2025-02-15,HLXB,"Helix Biotech cuts annual outlook amid weak demand, company statement shows",0
+2025-02-15,HLXB,Update: Helix Biotech beats quarterly earnings estimates as revenue climbs 9% in early trading,0
+2025-02-15,HLXB,"Helix Biotech posts surprise profit as sales rise 20%, sources say",2
+2025-02-15,NVLX,Novalux files quarterly report with regulator,1
+2025-02-15,NVLX,Exclusive: Novalux posts surprise profit as sales rise 17%,2
+2025-02-15,NVLX,Novalux announces date of annual shareholder meeting,1
+2025-02-15,NVLX,"Breaking: Novalux reports revenue growth of 20% and lifts outlook, with only minor cost pressure in early trading",2
+2025-02-15,ORBT,"Orbit Retail reports revenue growth of 13% and lifts outlook, with only minor cost pressure, company statement shows",2
+2025-02-15,ORBT,Breaking: Orbit Retail completes routine debt refinancing,1
+2025-02-15,QNTM,Quantum Freight announces layoffs as revenue falls 27%,0
+2025-02-15,QNTM,Breaking: Quantum Freight opens new regional office in early trading,1
+2025-02-16,ACME,"Acme Corp shares jump after record profit, sources say",2
+2025-02-16,BRTN,"Brighton Energy shares jump after record profit, sources say",2
+2025-02-16,BRTN,Brighton Energy opens new regional office,1
+2025-02-16,HLXB,Helix Biotech appoints new chief financial officer,1
+2025-02-16,HLXB,"Helix Biotech wins major contract, boosting order backlog in early trading",2
+2025-02-16,HLXB,Helix Biotech recalls products and warns of lower earnings in early trading,0
+2025-02-16,HLXB,"Update: Helix Biotech wins major contract, boosting order backlog",2
+2025-02-16,HLXB,"Helix Biotech comments on market rumours, no change to outlook",1
+2025-02-16,NVLX,"Novalux announces layoffs as revenue falls 20%, company statement shows",0
+2025-02-16,NVLX,"Novalux cuts annual outlook amid weak demand, company statement shows",0
+2025-02-16,NVLX,Novalux beats quarterly earnings estimates as revenue climbs 31%,2
+2025-02-16,NVLX,"Breaking: Novalux beats quarterly earnings estimates as revenue climbs 39%, sources say",2
+2025-02-16,ORBT,Orbit Retail shares jump after record profit,2
+2025-02-16,ORBT,Orbit Retail completes routine debt refinancing,1
+2025-02-16,QNTM,"Update: Quantum Freight swings to quarterly loss as sales drop 17%, company statement shows",0
+2025-02-16,QNTM,"Quantum Freight completes routine debt refinancing, sources say",1
+2025-02-17,ACME,"Update: Acme Corp files quarterly report with regulator, company statement shows",1
+2025-02-17,BRTN,Brighton Energy schedules quarterly results announcement,1
+2025-02-17,BRTN,Brighton Energy files quarterly report with regulator,1
+2025-02-17,NVLX,Exclusive: Novalux opens new regional office,1
+2025-02-17,NVLX,Exclusive: Novalux announces share buyback and higher dividend,2
+2025-02-17,NVLX,"Update: Novalux comments on market rumours, no change to outlook in early trading",1
+2025-02-17,ORBT,"Breaking: Analysts downgrade Orbit Retail to sell over margin concerns, sources say",0
+2025-02-17,QNTM,Breaking: Quantum Freight completes routine debt refinancing,1
+2025-02-17,QNTM,Breaking: Quantum Freight announces share buyback and higher dividend in early trading,2
+2025-02-17,QNTM,Breaking: Analysts upgrade Quantum Freight to buy on improving margins,2
+2025-02-18,ACME,"Acme Corp appoints new chief financial officer, company statement shows",1
+2025-02-18,BRTN,Breaking: Brighton Energy opens new regional office,1
+2025-02-18,BRTN,"Brighton Energy announces date of annual shareholder meeting, company statement shows",1
+2025-02-18,HLXB,"Helix Biotech shares tumble after regulator opens probe, sources say",0
+2025-02-18,HLXB,Update: Helix Biotech opens new regional office,1
+2025-02-18,HLXB,Breaking: Helix Biotech opens new regional office,1
+2025-02-18,NVLX,"Breaking: Novalux beats quarterly earnings estimates as revenue climbs 27%, sources say",2
+2025-02-18,NVLX,Novalux recalls products and warns of lower earnings,0
+2025-02-18,QNTM,Update: Quantum Freight files quarterly report with regulator,1
+2025-02-18,QNTM,"Quantum Freight reports revenue growth of 40% and lifts outlook, with only minor cost pressure",2
+2025-02-19,ACME,Exclusive: Acme Corp appoints new chief financial officer,1
+2025-02-19,ACME,Exclusive: Acme Corp schedules quarterly results announcement in early trading,1
+2025-02-19,BRTN,Brighton Energy opens new regional office in early trading,1
+2025-02-19,BRTN,Brighton Energy reports revenue growth of 19% but slashes outlook on surging costs in early trading,0
+2025-02-19,BRTN,Exclusive: Brighton Energy announces date of annual shareholder meeting,1
+2025-02-19,BRTN,Analysts downgrade Brighton Energy to sell over margin concerns in early trading,2
+2025-02-19,BRTN,Update: Brighton Energy schedules quarterly results announcement,1
+2025-02-19,HLXB,Helix Biotech files quarterly report with regulator,1
+2025-02-19,HLXB,Helix Biotech to present at investor conference next week,1
+2025-02-19,HLXB,Breaking: Helix Biotech files quarterly report with regulator in early trading,1
+2025-02-19,HLXB,Exclusive: Helix Biotech completes routine debt refinancing,1
+2025-02-19,NVLX,Novalux recalls products and warns of lower earnings,0
+2025-02-19,NVLX,Novalux to present at investor conference next week,1
+2025-02-19,NVLX,"Exclusive: Novalux reports revenue growth of 18% but slashes outlook on surging costs, company statement shows",0
+2025-02-19,ORBT,"Analysts downgrade Orbit Retail to sell over margin concerns, company statement shows",0
+2025-02-19,ORBT,"Orbit Retail announces share buyback and higher dividend, sources say",2
+2025-02-19,QNTM,Update: Quantum Freight appoints new chief financial officer,1
+2025-02-19,QNTM,Quantum Freight raises full-year guidance after strong demand in early trading,2
+2025-02-19,QNTM,Exclusive: Quantum Freight announces share buyback and higher dividend,2
+2025-02-20,ACME,Exclusive: Acme Corp beats quarterly earnings estimates as revenue climbs 29%,1
+2025-02-20,ACME,Breaking: Acme Corp to present at investor conference next week,1
+2025-02-20,ACME,Acme Corp cuts annual outlook amid weak demand,0
+2025-02-20,ACME,Acme Corp reports revenue growth of 9% but slashes outlook on surging costs,0
+2025-02-20,ACME,"Acme Corp shares tumble after regulator opens probe, sources say",0
+2025-02-20,BRTN,"Brighton Energy beats quarterly earnings estimates as revenue climbs 17%, company statement shows",2
+2025-02-20,BRTN,Brighton Energy to present at investor conference next week,1
+2025-02-20,BRTN,"Update: Brighton Energy posts surprise profit as sales rise 13%, sources say",2
+2025-02-20,BRTN,"Brighton Energy files quarterly report with regulator, sources say",1
+2025-02-20,BRTN,"Brighton Energy appoints new chief financial officer, company statement shows",1
+2025-02-20,HLXB,Exclusive: Analysts downgrade Helix Biotech to sell over margin concerns in early trading,0
+2025-02-20,HLXB,"Breaking: Helix Biotech to present at investor conference next week, company statement shows",1
+2025-02-20,HLXB,"Breaking: Helix Biotech misses profit forecasts as costs surge 39%, sources say",0
+2025-02-20,HLXB,Helix Biotech cuts annual outlook amid weak demand in early trading,0
+2025-02-20,NVLX,Exclusive: Novalux announces layoffs as revenue falls 38%,0
+2025-02-20,NVLX,"Novalux beats quarterly earnings estimates as revenue climbs 30%, sources say",2
+2025-02-20,ORBT,Breaking: Orbit Retail reports revenue growth of 13% but slashes outlook on surging costs,0
+2025-02-20,ORBT,Update: Orbit Retail reports revenue growth of 24% but slashes outlook on surging costs,0
+2025-02-20,ORBT,"Orbit Retail comments on market rumours, no change to outlook, sources say",1
+2025-02-20,QNTM,Quantum Freight beats quarterly earnings estimates as revenue climbs 22%,2
+2025-02-20,QNTM,Quantum Freight posts surprise profit as sales rise 36%,2
+2025-02-20,QNTM,"Quantum Freight opens new regional office, company statement shows",1
+2025-02-20,QNTM,"Breaking: Quantum Freight swings to quarterly loss as sales drop 6%, company statement shows",0
+2025-02-20,QNTM,"Quantum Freight wins major contract, boosting order backlog, company statement shows",2
+2025-02-20,QNTM,Update: Quantum Freight recalls products and warns of lower earnings in early trading,0
+2025-02-21,ACME,Acme Corp cuts annual outlook amid weak demand,0
+2025-02-21,ACME,Breaking: Analysts downgrade Acme Corp to sell over margin concerns,0
+2025-02-21,ACME,Exclusive: Acme Corp beats quarterly earnings estimates as revenue climbs 5% in early trading,2
+2025-02-21,BRTN,"Exclusive: Brighton Energy shares jump after record profit, company statement shows",2
+2025-02-21,HLXB,Helix Biotech schedules quarterly results announcement in early trading,1
+2025-02-21,HLXB,Exclusive: Helix Biotech announces layoffs as revenue falls 8%,0
+2025-02-21,NVLX,"Breaking: Novalux beats quarterly earnings estimates as revenue climbs 2%, sources say",2
+2025-02-21,NVLX,Novalux opens new regional office,1
+2025-02-21,ORBT,Exclusive: Orbit Retail shares jump after record profit in early trading,2
+2025-02-21,ORBT,Orbit Retail raises full-year guidance after strong demand,2
+2025-02-21,ORBT,"Exclusive: Orbit Retail completes routine debt refinancing, sources say",1
+2025-02-21,ORBT,"Exclusive: Orbit Retail wins major contract, boosting order backlog, sources say",2
+2025-02-21,ORBT,"Orbit Retail opens new regional office, company statement shows",1
+2025-02-21,QNTM,"Breaking: Quantum Freight announces date of annual shareholder meeting, company statement shows",1
+2025-02-22,ACME,"Breaking: Acme Corp cuts annual outlook amid weak demand, company statement shows",0
+2025-02-22,ACME,Breaking: Analysts downgrade Acme Corp to sell over margin concerns,0
+2025-02-22,ACME,"Acme Corp appoints new chief financial officer, sources say",1
+2025-02-22,ACME,Breaking: Acme Corp cuts annual outlook amid weak demand in early trading,0
+2025-02-22,ACME,Exclusive: Analysts downgrade Acme Corp to sell over margin concerns,0
+2025-02-22,BRTN,Brighton Energy shares tumble after regulator opens probe,0
+2025-02-22,BRTN,"Breaking: Brighton Energy comments on market rumours, no change to outlook, sources say",1
+2025-02-22,BRTN,Brighton Energy files quarterly report with regulator in early trading,1
+2025-02-22,BRTN,Brighton Energy to present at investor conference next week in early trading,1
+2025-02-22,HLXB,Exclusive: Helix Biotech opens new regional office,1
+2025-02-22,HLXB,"Exclusive: Analysts upgrade Helix Biotech to buy on improving margins, company statement shows",2
+2025-02-22,NVLX,Update: Novalux opens new regional office,1
+2025-02-22,QNTM,"Breaking: Quantum Freight wins major contract, boosting order backlog, company statement shows",2
+2025-02-22,QNTM,"Quantum Freight appoints new chief financial officer, company statement shows",1
+2025-02-22,QNTM,"Quantum Freight to present at investor conference next week, sources say",1
+2025-02-22,QNTM,"Exclusive: Quantum Freight misses profit forecasts as costs surge 9%, company statement shows",0
+2025-02-23,ACME,"Exclusive: Acme Corp wins major contract, boosting order backlog",2
+2025-02-23,ACME,Acme Corp cuts annual outlook amid weak demand in early trading,0
+2025-02-23,BRTN,Brighton Energy shares tumble after regulator opens probe,0
+2025-02-23,HLXB,Update: Helix Biotech recalls products and warns of lower earnings,0
+2025-02-23,HLXB,"Breaking: Helix Biotech to present at investor conference next week, company statement shows",2
+2025-02-23,HLXB,"Helix Biotech beats quarterly earnings estimates as revenue climbs 37%, company statement shows",2
+2025-02-23,HLXB,"Update: Helix Biotech opens new regional office, company statement shows",1
+2025-02-23,HLXB,Update: Helix Biotech raises full-year guidance after strong demand,2
+2025-02-23,HLXB,Helix Biotech opens new regional office in early trading,1
+2025-02-23,NVLX,"Novalux schedules quarterly results announcement, company statement shows",1
+2025-02-23,NVLX,Update: Novalux to present at investor conference next week in early trading,1
+2025-02-23,ORBT,"Breaking: Orbit Retail swings to quarterly loss as sales drop 20%, company statement shows",0
+2025-02-23,ORBT,Orbit Retail files quarterly report with regulator,1
+2025-02-23,QNTM,"Quantum Freight shares jump after record profit, sources say",2
+2025-02-23,QNTM,Breaking: Quantum Freight misses profit forecasts as costs surge 23%,0
+2025-02-24,ACME,Acme Corp posts surprise profit as sales rise 12% in early trading,2
+2025-02-24,ACME,"Acme Corp files quarterly report with regulator, company statement shows",1
+2025-02-24,ACME,"Update: Acme Corp swings to quarterly loss as sales drop 21%, sources say",0
+2025-02-24,BRTN,Brighton Energy schedules quarterly results announcement,1
+2025-02-24,HLXB,"Exclusive: Helix Biotech opens new regional office, sources say",1
+2025-02-24,HLXB,Analysts upgrade Helix Biotech to buy on improving margins in early trading,2
+2025-02-24,HLXB,Helix Biotech opens new regional office in early trading,1
+2025-02-24,HLXB,Helix Biotech misses profit forecasts as costs surge 5% in early trading,0
+2025-02-24,ORBT,Exclusive: Orbit Retail announces date of annual shareholder meeting,1
+2025-02-24,ORBT,Breaking: Orbit Retail appoints new chief financial officer,1
+2025-02-24,ORBT,"Breaking: Orbit Retail misses profit forecasts as costs surge 15%, sources say",0
+2025-02-24,ORBT,Orbit Retail files quarterly report with regulator in early trading,0
+2025-02-24,QNTM,Exclusive: Quantum Freight opens new regional office,1
+2025-02-24,QNTM,Quantum Freight swings to quarterly loss as sales drop 29%,0
+2025-02-24,QNTM,Quantum Freight cuts annual outlook amid weak demand,0
+2025-02-24,QNTM,"Quantum Freight reports revenue growth of 39% but slashes outlook on surging costs, company statement shows",0
+2025-02-25,ACME,Acme Corp announces share buyback and higher dividend,2
+2025-02-25,ACME,Acme Corp posts surprise profit as sales rise 14%,2
+2025-02-25,BRTN,"Brighton Energy shares jump after record profit, sources say",2
+2025-02-25,BRTN,"Breaking: Brighton Energy reports revenue growth of 23% and lifts outlook, with only minor cost pressure",2
+2025-02-25,BRTN,"Brighton Energy comments on market rumours, no change to outlook in early trading",1
+2025-02-25,BRTN,Brighton Energy beats quarterly earnings estimates as revenue climbs 21%,2
+2025-02-25,BRTN,"Exclusive: Brighton Energy wins major contract, boosting order backlog",2
+2025-02-25,NVLX,Update: Novalux beats quarterly earnings estimates as revenue climbs 26%,2
+2025-02-25,NVLX,"Novalux announces date of annual shareholder meeting, company statement shows",1
+2025-02-25,NVLX,Novalux files quarterly report with regulator in early trading,2
+2025-02-25,ORBT,Update: Orbit Retail raises full-year guidance after strong demand in early trading,2
+2025-02-25,ORBT,Exclusive: Orbit Retail recalls products and warns of lower earnings,2
+2025-02-25,ORBT,Orbit Retail opens new regional office in early trading,2
+2025-02-25,QNTM,Breaking: Quantum Freight raises full-year guidance after strong demand,2
+2025-02-26,ACME,"Acme Corp posts surprise profit as sales rise 23%, sources say",2
+2025-02-26,ACME,"Breaking: Acme Corp files quarterly report with regulator, sources say",0
+2025-02-26,ACME,"Acme Corp schedules quarterly results announcement, company statement shows",1
+2025-02-26,BRTN,"Breaking: Brighton Energy posts surprise profit as sales rise 23%, sources say",2
+2025-02-26,HLXB,Helix Biotech cuts annual outlook amid weak demand,0
+2025-02-26,HLXB,"Helix Biotech shares jump after record profit, sources say",2
+2025-02-26,NVLX,"Update: Novalux comments on market rumours, no change to outlook",1
+2025-02-26,ORBT,Orbit Retail announces share buyback and higher dividend,2
+2025-02-26,ORBT,"Exclusive: Orbit Retail completes routine debt refinancing, sources say",1
+2025-02-26,QNTM,Exclusive: Quantum Freight shares tumble after regulator opens probe,0
+2025-02-27,ACME,"Update: Acme Corp appoints new chief financial officer, sources say",1
+2025-02-27,ACME,Exclusive: Acme Corp raises full-year guidance after strong demand in early trading,2
+2025-02-27,ACME,Update: Acme Corp raises full-year guidance after strong demand,2
+2025-02-27,ACME,"Exclusive: Acme Corp comments on market rumours, no change to outlook, sources say",1
+2025-02-27,BRTN,Exclusive: Brighton Energy files quarterly report with regulator in early trading,1
+2025-02-27,BRTN,"Update: Brighton Energy comments on market rumours, no change to outlook",1
+2025-02-27,HLXB,"Helix Biotech raises full-year guidance after strong demand, sources say",2
+2025-02-27,NVLX,Update: Novalux opens new regional office,1
+2025-02-27,NVLX,Update: Novalux announces date of annual shareholder meeting,1
+2025-02-27,NVLX,"Novalux raises full-year guidance after strong demand, company statement shows",1
+2025-02-27,NVLX,Breaking: Novalux announces date of annual shareholder meeting,1
+2025-02-27,ORBT,"Update: Orbit Retail to present at investor conference next week, company statement shows",1
+2025-02-27,ORBT,Update: Orbit Retail files quarterly report with regulator,1
+2025-02-27,ORBT,Orbit Retail beats quarterly earnings estimates as revenue climbs 20% in early trading,0
+2025-02-27,QNTM,Exclusive: Quantum Freight schedules quarterly results announcement,1
+2025-02-28,ACME,Update: Acme Corp appoints new chief financial officer in early trading,1
+2025-02-28,ACME,Breaking: Acme Corp misses profit forecasts as costs surge 27%,0
+2025-02-28,BRTN,"Brighton Energy reports revenue growth of 6% and lifts outlook, with only minor cost pressure, company statement shows",2
+2025-02-28,BRTN,"Update: Brighton Energy shares jump after record profit, company statement shows",2
+2025-02-28,HLXB,"Helix Biotech wins major contract, boosting order backlog",2
+2025-02-28,NVLX,Exclusive: Novalux recalls products and warns of lower earnings in early trading,0
+2025-02-28,NVLX,Novalux misses profit forecasts as costs surge 30% in early trading,2
+2025-02-28,ORBT,Analysts upgrade Orbit Retail to buy on improving margins,2
+2025-02-28,ORBT,Orbit Retail raises full-year guidance after strong demand,2
+2025-02-28,ORBT,Orbit Retail beats quarterly earnings estimates as revenue climbs 32%,2
+2025-02-28,QNTM,Update: Quantum Freight announces layoffs as revenue falls 28%,0
+2025-02-28,QNTM,"Analysts downgrade Quantum Freight to sell over margin concerns, sources say",0
+2025-03-01,ACME,"Exclusive: Acme Corp wins major contract, boosting order backlog",0
+2025-03-01,ACME,"Update: Acme Corp raises full-year guidance after strong demand, company statement shows",2
+2025-03-01,BRTN,Brighton Energy appoints new chief financial officer,1
+2025-03-01,BRTN,Breaking: Brighton Energy appoints new chief financial officer,1
+2025-03-01,HLXB,Update: Helix Biotech swings to quarterly loss as sales drop 16% in early trading,0
+2025-03-01,HLXB,"Helix Biotech files quarterly report with regulator, company statement shows",1
+2025-03-01,HLXB,Exclusive: Helix Biotech opens new regional office,1
+2025-03-01,HLXB,Helix Biotech swings to quarterly loss as sales drop 11%,0
+2025-03-01,HLXB,Exclusive: Helix Biotech files quarterly report with regulator in early trading,1
+2025-03-01,HLXB,"Helix Biotech comments on market rumours, no change to outlook",1
+2025-03-01,HLXB,Breaking: Helix Biotech appoints new chief financial officer in early trading,1
+2025-03-01,NVLX,"Exclusive: Novalux reports revenue growth of 40% and lifts outlook, with only minor cost pressure, company statement shows",2
+2025-03-01,NVLX,"Update: Novalux opens new regional office, sources say",1
+2025-03-01,NVLX,Novalux completes routine debt refinancing,1
+2025-03-01,NVLX,"Novalux comments on market rumours, no change to outlook",1
+2025-03-01,ORBT,Breaking: Orbit Retail announces layoffs as revenue falls 15% in early trading,0
+2025-03-01,ORBT,Breaking: Orbit Retail completes routine debt refinancing,0
+2025-03-01,ORBT,Exclusive: Analysts downgrade Orbit Retail to sell over margin concerns,0
+2025-03-01,QNTM,"Quantum Freight swings to quarterly loss as sales drop 33%, company statement shows",0
+2025-03-01,QNTM,"Quantum Freight appoints new chief financial officer, company statement shows",1
+2025-03-01,QNTM,"Quantum Freight schedules quarterly results announcement, company statement shows",1
+2025-03-01,QNTM,"Quantum Freight schedules quarterly results announcement, sources say",1
+2025-03-01,QNTM,Quantum Freight shares jump after record profit,2
+2025-03-01,QNTM,Update: Quantum Freight appoints new chief financial officer,1
+2025-03-01,QNTM,Update: Quantum Freight raises full-year guidance after strong demand,2
+2025-03-02,ACME,"Acme Corp wins major contract, boosting order backlog in early trading",2
+2025-03-02,ACME,Exclusive: Acme Corp raises full-year guidance after strong demand,2
+2025-03-02,BRTN,"Brighton Energy raises full-year guidance after strong demand, sources say",2
+2025-03-02,HLXB,Helix Biotech to present at investor conference next week,1
+2025-03-02,NVLX,Novalux shares jump after record profit in early trading,2
+2025-03-02,NVLX,Novalux opens new regional office,1
+2025-03-02,NVLX,Novalux raises full-year guidance after strong demand,2
+2025-03-02,NVLX,"Novalux completes routine debt refinancing, sources say",1
+2025-03-02,NVLX,Exclusive: Novalux posts surprise profit as sales rise 14%,2
+2025-03-02,QNTM,Update: Quantum Freight to present at investor conference next week in early trading,1

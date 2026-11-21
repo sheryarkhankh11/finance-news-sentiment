@@ -1,0 +1,58 @@
+seed: 42
+
+paths:
+  sample_csv: data/sample/headlines_sample.csv
+  external_csv: data/external/hf_financial_news.csv
+  live_dir: data/live
+  cache_dir: .cache/api
+  artifacts_dir: artifacts
+  reports_dir: reports
+
+data:
+  val_frac: 0.15
+  test_frac: 0.15
+  hf_dataset: zeroshot/twitter-financial-news-sentiment   # check its dataset card for license
+  hf_max_rows: 5000        # subsample: keeps downloads/training small
+
+text:
+  max_len: 40
+  min_freq: 1
+  max_vocab: 20000
+
+bilstm:
+  emb_dim: 100
+  hidden: 128
+  dropout: 0.3
+  lr: 0.002
+  batch_size: 64
+  epochs: 20
+  patience: 4
+
+tfidf:
+  ngram_max: 2
+  C: 2.0
+
+finbert:
+  model_name: ProsusAI/finbert
+  batch_size: 16
+  max_len: 64
+
+api:
+  cache_ttl_hours: 6
+  finnhub: { min_interval_s: 1.1 }   # free tier: 60 calls/min
+  gdelt:   { min_interval_s: 5.5 }   # GDELT asks for <= 1 request / 5 s
+  max_per_ticker: 200
+
+# ticker -> search name (used for GDELT queries)
+tickers:
+  AAPL: Apple
+  MSFT: Microsoft
+  NVDA: Nvidia
+  TSLA: Tesla
+  JPM: JPMorgan
+
+desk:
+  alert_threshold: 0.25    # |today's mean score - trailing mean| to raise an alert
+  min_headlines: 2
+  lookback_days: 7
+  top_k_headlines: 3

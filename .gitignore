@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+.pytest_cache/
+# Caches, models and generated outputs are never committed
+.cache/
+artifacts/
+reports/
+data/live/
+data/external/
